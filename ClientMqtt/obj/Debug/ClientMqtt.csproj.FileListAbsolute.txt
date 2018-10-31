@@ -1,0 +1,15 @@
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\bin\Debug\ClientMqtt.exe.config
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\bin\Debug\ClientMqtt.exe
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\bin\Debug\ClientMqtt.pdb
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\obj\Debug\ClientMqtt.csprojAssemblyReference.cache
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\obj\Debug\ClientMqtt.Form1.resources
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\obj\Debug\ClientMqtt.Properties.Resources.resources
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\obj\Debug\ClientMqtt.csproj.GenerateResource.cache
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\obj\Debug\ClientMqtt.csproj.CoreCompileInputs.cache
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\obj\Debug\ClientMqtt.csproj.CopyComplete
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\obj\Debug\ClientMqtt.exe
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\obj\Debug\ClientMqtt.pdb
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\obj\Debug\ClientMqtt.LoginForm.resources
+C:\Users\Res Solution\source\repos\ClientMqtt\ClientMqtt\obj\Debug\ClientMqtt.PrivMessage.resources
